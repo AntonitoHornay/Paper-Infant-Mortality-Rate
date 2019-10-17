@@ -1,0 +1,2 @@
+# Paper-Infant-Mortality-Rate
+nfant mortality is the death of young children under the age of 1. This death toll is measured by the infant mortality rate (IMR), which is the number of deaths of children under one year of age per 1000 live births. The under-five mortality rate, which is referred to as the child mortality rate, is also an important statistic, considering the infant mortality rate focuses only on children under one year of age.
